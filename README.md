@@ -7,4 +7,4 @@ Assignment 0 Welcomes Students to GitHub
 3. Follow my account on GitHub @scday
 4. Login to the classroom (link provided via Blackboard)
 5. Learn about GitHub and the commands via presentation provided (https://guides.github.com/activities/hello-world/)
-![MyOctoCat] (https://github.com/ncat-comp322-2019/assignment-0-Waltbo/blob/master/octocat.png)
+![MyOctoCat](https://github.com/ncat-comp322-2019/assignment-0-Waltbo/blob/master/octocat.png)
